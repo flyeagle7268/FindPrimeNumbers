@@ -1,0 +1,2 @@
+# FindPrimeNumbers
+Finds prime numbers.
